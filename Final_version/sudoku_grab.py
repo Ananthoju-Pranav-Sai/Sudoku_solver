@@ -15,7 +15,6 @@ def preprocess_img(img):
     gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
     bifilter = cv2.bilateralFilter(gray,10,20,25)
     edged = cv2.Canny(bifilter,20,100)
-    cv2.imshow("canny",edged)
     return edged
 
 def extract_sudoku(img):
