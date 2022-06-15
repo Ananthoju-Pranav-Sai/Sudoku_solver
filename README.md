@@ -29,4 +29,8 @@ This script has the funcitons which are used to display the solution on the inpu
 ## Examples :
 1. sudokus/sudoku3.jpg
 
+![Example 1](https://github.com/Ananthoju-Pranav-Sai/Sudoku_solver/blob/main/Examples/example1.png)
 
+2. sudokus/sudoku1.jpg
+
+![Example 2](https://github.com/Ananthoju-Pranav-Sai/Sudoku_solver/blob/main/Examples/example2.png)
