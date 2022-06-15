@@ -1,0 +1,1 @@
+img = cv2.imread("sudokus/sudoku1.jpg")
